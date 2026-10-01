@@ -1,6 +1,6 @@
 # Авторизация (Java Swing + JDBC)
 
-Запуск: `run.bat` (Windows) или `./run.sh` (Linux/macOS). Нужен JDK 17+.
+Запуск: `run.bat` (Windows). Нужен JDK 17+.
 В IntelliJ IDEA: открыть папку, `src` — Sources Root, `resources` — Resources Root,
 `lib/sqlite-jdbc.jar` — добавить как библиотеку, запускать `auth.Main`.
 
